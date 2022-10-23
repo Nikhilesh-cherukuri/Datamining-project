@@ -36,7 +36,7 @@ I use windows.I went to windows 10 section in the link and downloded the follwin
     
     4.winpty docker exec -it cvat_server bash -ic 'python3 ~/manage.py createsuperuser'
     
-    5. Then setup the Username,email address and password
+    5.Then setup the Username,email address and password
     
     
 9. Now go to chrome and open https//:localhost:8080.
