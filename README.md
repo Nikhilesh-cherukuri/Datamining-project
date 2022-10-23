@@ -6,11 +6,11 @@ CVAT installation instructions
 1. Go to this link https://opencv.github.io/cvat/docs/administration/basics/installation/
 I use windows.I went to windows 10 section in the link and downloded the follwing:
 
-  1.Docker Desktop for Windows
+     1.Docker Desktop for Windows
   
-  2.Git for Windows
+     2.Git for Windows
   
-  3.google chrome (if you don't have it installed before)
+     3 .google chrome (if you don't have it installed before)
 
 
 2.Install and run the downloaded Docker Desktop for Windows.exe
