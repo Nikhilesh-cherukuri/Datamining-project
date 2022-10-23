@@ -22,7 +22,7 @@ I use windows.I went to windows 10 section in the link and downloded the follwin
 5. Go to the app store and install ubuntu distribution of choice
   i installed ubuntu 22.04.1 LTS
 
-6.After installing the ubuntu setup the language and then create a default UNIX user with name ,username and password.
+6. After installing the ubuntu setup the language and then create a default UNIX user with name ,username and password.
 
 7.  Now install the Git for Windows.exe then setup the git and launch.
 
