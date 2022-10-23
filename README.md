@@ -39,5 +39,5 @@ I use windows.I went to windows 10 section in the link and downloded the follwin
     5. Then setup the Username,email address and password
     
     
-9.Now go to chrome and open https//:localhost:8080.
+9. Now go to chrome and open https//:localhost:8080.
 
