@@ -13,7 +13,7 @@ I use windows.I went to windows 10 section in the link and downloded the follwin
      3 .google chrome (if you don't have it installed before)
 
 
-2.Install and run the downloaded Docker Desktop for Windows.exe
+2. Install and run the downloaded Docker Desktop for Windows.exe
 
 3. Go to the Step 4 - Download the Linux kernel update package in this link https://learn.microsoft.com/en-us/windows/wsl/install-manual#step-4---download-the-linux-kernel-update-package and dowload the package and install it.
 
